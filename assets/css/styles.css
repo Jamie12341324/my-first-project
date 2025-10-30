@@ -5,3 +5,4 @@ body{background-color:blue;
     background-image: url(../images/background.jpg);}
 h2{color:orangered;}
 p{font-weight: bold;}
+.text-center{text-align: center;}
